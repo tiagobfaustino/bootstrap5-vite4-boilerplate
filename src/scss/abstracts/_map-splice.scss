@@ -1,0 +1,19 @@
+//Create your own map
+$custom-colors: (
+  'verde-base': $verde-base,
+  'verde-logo': $verde-logo,
+  'verde-claro': $verde-claro,
+  'verde-escuro': $verde-escuro,
+  'azul': $azul,
+  'azul-esverd': $azul-esverd,
+  'azul-agua': $azul-agua,
+  'azul-escuro': $azul-escuro,
+  'amarelo-ouro': $amarelo-ouro,
+  'vermelho': $vermelho,
+  'laranja': $laranja,
+  'marrom-escuro': $marrom-escuro,
+  'marrom-claro': $marrom-claro,
+);
+
+//Merge the maps
+$theme-colors: map-merge($theme-colors, $custom-colors);

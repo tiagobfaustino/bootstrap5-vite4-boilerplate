@@ -1,0 +1,63 @@
+/* Color Theme Swatches in RGBA */
+$verde-base: #127780;
+$verde-logo: #15eda3;
+$verde-claro: #668b7e; //#0FC083;
+$verde-escuro: #0c4d53;
+$azul: #0f54bf;
+$azul-agua: #13dbed;
+$azul-esverd: #18a1ad;
+$azul-escuro: #2c446a;
+$amarelo-ouro: #bf850f;
+$vermelho: #bf3a0f;
+$laranja: #e0735a; //#F77125;
+$marrom-claro: #804e2a;
+$marrom-escuro: #403025;
+
+// // Theme
+// $primary: $verde-base;
+// $secondary: $verde-claro;
+// $success: $azul;
+// $info: $azul-esverd;
+// $warning: $laranja;
+// $danger: $vermelho;
+// $dark: #052123;
+
+// $enable-negative-margins: true;
+
+// //Spacers
+// $spacer: 1rem;
+// $spacers: (
+//   0: 0,
+//   1: $spacer * 0.25,
+//   2: $spacer * 0.5,
+//   3: $spacer,
+//   4: $spacer * 1.5,
+//   5: $spacer * 3,
+//   6: $spacer * 3.5,
+//   7: $spacer * 4,
+//   8: $spacer * 5,
+//   9: $spacer * 6,
+//   10: $spacer * 7,
+// );
+
+// $body-color: #041a1c;
+
+// //Navbar
+// $navbar-light-color: #cccccc;
+// $navbar-light-hover-color: $body-color;
+// $navbar-light-active-color: $verde-logo;
+
+$btn-padding-y: 1rem;
+$btn-padding-x: 1.25rem;
+
+//Accordion
+$accordion-bg: transparent;
+$accordion-border-width: 0;
+$accordion-button-padding-y: 1rem;
+$accordion-button-padding-x: 1.25rem;
+$accordion-button-focus-box-shadow: none;
+$accordion-icon-width: 1rem;
+$accordion-button-active-icon: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 11H5V13H19V11Z"></path></svg>');
+$accordion-button-icon: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M11 11V5H13V11H19V13H13V19H11V13H5V11H11Z"></path></svg>');
+$accordion-padding-x: 0.5rem;
+$accordion-padding-y: 1.5rem;

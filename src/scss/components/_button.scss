@@ -1,0 +1,15 @@
+.navbar {
+  .btn-link {
+    text-decoration: none;
+  }
+  .btn-link:hover {
+    text-decoration: underline;
+  }
+}
+
+.btn-white {
+  background: white !important;
+}
+.btn-white:hover {
+  color: $verde-base !important;
+}
